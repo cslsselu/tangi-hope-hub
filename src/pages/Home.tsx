@@ -48,7 +48,7 @@ const Home = () => {
             {/* Social Media Links */}
             <div className="flex gap-4 justify-center mt-8">
               <a
-                href="https://facebook.com/tangifoodpantry"
+                href="https://www.facebook.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 rounded-full bg-card hover:bg-accent transition-colors border"
